@@ -37,7 +37,7 @@ public final class R {
         public static final int loading=0x7f020009;
         public static final int loading_bg=0x7f02000a;
         public static final int renma=0x7f02000b;
-        public static final int title_bar=0x7f02000c;
+        public static final int title_bar_9=0x7f02000c;
         public static final int xiaohei=0x7f02000d;
     }
     public static final class id {
